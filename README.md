@@ -1,1 +1,1 @@
-La APK del proyecto esta en el apartado Realeses 
+La APK del proyecto esta en el apartado Releases
